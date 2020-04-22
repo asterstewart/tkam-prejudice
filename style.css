@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  height: 100%;
+  font-family: 'Manrope', sans-serif;
+}
+.imdo {
+  position: relative;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#atticusStand {
+  background-image: url('img/atticusStand.jpeg');
+  min-height: 100vh;
+}
+#scout {
+  background-image: url('img/scout.png');
+  min-height: 100vh;
+}
+.caption {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+}
+
+.textCaption {
+  background-color: black;
+  color: white;
+  font-size: 25px;
+  padding: 18px;
+}
+
+.depthText {
+  text-align: center;
+  padding: 5%;
+}
+.charCaption {
+  color: white;
+  font-size: 30px;
+  padding: 18px;
+  letter-spacing: 10px;
+}
+#footerText {
+  text-align: center;
+
+  height: 5%;
+}
