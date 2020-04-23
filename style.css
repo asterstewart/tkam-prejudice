@@ -18,6 +18,30 @@ body {
   background-image: url('img/scout.png');
   min-height: 100vh;
 }
+#jem {
+  background-image: url('img/jem.png');
+  min-height: 100vh;
+}
+#alexandra {
+  background-image: url('img/alexandra.jpeg');
+  min-height: 100vh;
+}
+#ewell {
+  background-image: url('img/ewell.jpg');
+  min-height: 100vh;
+}
+#cunningham {
+  background-image: url('img/cunningham.jpg');
+  min-height: 100vh;
+}
+#prejudice {
+  background-image: url('img/prejudice.png');
+  min-height: 100vh;
+}
+#ender {
+  background-image: url('img/ender.jpg');
+  min-height: 100vh;
+}
 .caption {
   position: absolute;
   left: 0;
